@@ -1,49 +1,49 @@
 #include <stdio.h>
 #include <limits.h>
 
-int unsiged_char_max()
+int unsigned_char_max()
 {
-    // TODO: write your code here
+    return UCHAR_MAX;
 }
 
 int signed_char_min()
 {
-    // TODO: write your code here
+    return SCHAR_MIN;
 }
 
 int signed_char_max()
 {
-    // TODO: write your code here
+    return SCHAR_MAX;
 }
 
 int unsigned_int_max()
 {
-    // TODO: write your code here
+    return UINT_MAX;
 }
 
 int signed_int_min()
 {
-    // TODO: write your code here
+    return INT_MIN;
 }
 
 int signed_int_max()
 {
-    // TODO: write your code here
+    return INT_MAX;
 }
 
 int unsigned_short_max()
 {
-    // TODO: write your code here
+    return USHRT_MAX;
 }
 
 int signed_short_min()
 {
-    // TODO: write your code here
+    return SHRT_MIN;
 }
 
 int signed_short_max()
 {
-    // TODO: write your code here
+    return SHRT_MAX;
 }
 
 // DO NOT change the code below
